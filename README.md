@@ -61,7 +61,7 @@ This repository will be continuously updated as I complete lessons, labs, and pr
 ## 👤 Author
 
 **Asres Yelia**  
-GitHub: [@ethioCodingRoom](https://github.com/ethioCodingRoom)
+GitHub: [@asres-analytics](https://github.com/asres-analytics)
 
 ---
 
